@@ -1,7 +1,7 @@
 # authentication_via_api
 
 ```shell
-git https://github.com/evgenijmartynuk07/authentication_via_api.git
+git clone https://github.com/evgenijmartynuk07/authentication_via_api.git
 cd authentication_via_api
 
 python -m venv venv
