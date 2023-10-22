@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
-    "drf_spectacular",
     #SOCIAL
     'oauth2_provider',
     'social_django',
