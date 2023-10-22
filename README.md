@@ -9,6 +9,8 @@ source venv/bin/activate
 
 create .env based on .env.sample
 
+RUN python manage.py createsuperuser
+
 ```
 
 Next You can RUN the server & create application for register:
