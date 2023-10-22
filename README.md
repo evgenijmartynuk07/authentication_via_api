@@ -25,7 +25,7 @@ Next You can convert Your google or facebook token to access_token:
 ```shell
 visit http://127.0.0.1:8000/auth/convert-token/
 
-create POST requst:
+create POST request:
 
 for Google
 {
